@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Kaushik</h1>
-<h3 align="center">I am a Software Engineer who has cross domain experience of working in IT for around 8 yrs in Java, SpringBoot, MicroServices, Jenkins, Docker, KubernetesA passionate frontend developer from India</h3>
+<h3 align="center">I am a Software Engineer who has cross domain experience of working in IT for around 8 yrs in Java, SpringBoot, MicroServices, Jenkins, Docker, Kubernetes and hands on knowledge of Angular</h3>
 
 - 🌱 I’m currently learning **Angular, AWS**
 
